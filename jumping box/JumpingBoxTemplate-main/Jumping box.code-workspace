@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Whitehat jr\\p5.play-boilerplate-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JumpingBoxTemplate-main"
+	}
+}
